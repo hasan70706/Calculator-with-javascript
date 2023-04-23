@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../c,c++,java/mydirectory"
+		},
+		{
+			"path": "../C Language"
+		},
+		{
+			"path": "../Java VSC"
+		},
+		{
+			"path": "Calculator-using-javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mydirectory"
+	}
+}
